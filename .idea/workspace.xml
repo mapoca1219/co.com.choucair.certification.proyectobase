@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2579a24-e5f6-445a-89ca-298a2c8f659f" name="Default Changelist" comment="" />
+    <list default="true" id="e2579a24-e5f6-445a-89ca-298a2c8f659f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/prueba2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,9 +59,25 @@
       <option name="presentableId" value="Default" />
       <updated>1629423068307</updated>
     </task>
+    <task id="LOCAL-00001" summary="inicio">
+      <created>1629492365132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629492365132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="inicio" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1629492363982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="176" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1629492363982" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1629492253847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

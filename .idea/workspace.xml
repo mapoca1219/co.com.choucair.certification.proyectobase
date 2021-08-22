@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2579a24-e5f6-445a-89ca-298a2c8f659f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_cucumber_cucumber_java8_6_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_cucumber_cucumber_java_6_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/rennuers/RunnerTags.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="e2579a24-e5f6-445a-89ca-298a2c8f659f" name="Default Changelist" comment="Complemento1">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Prueba.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/rennuers/RunnerTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/rennuers/RunnerTags.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +38,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wyFl3Q0xcs4A0Jipi29be4QSwV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -60,6 +65,33 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="co.com.choucair.certification.proyectobase.rennuers" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;co.com.choucair.certification.proyectobase.rennuers.RunnerTags&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTags" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -98,13 +130,22 @@
       <option name="project" value="LOCAL" />
       <updated>1629493034726</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Complemento1">
+      <created>1629603093802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629603093802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="inicio" />
     <MESSAGE value="inicio2" />
-    <option name="LAST_COMMIT_MESSAGE" value="inicio2" />
+    <MESSAGE value="Complemento1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complemento1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1540" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629601044561">
@@ -123,9 +164,10 @@
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1816" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629599144222" />
-    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1629493033729">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1552" y="0" key="CommitChangelistDialog2" timestamp="1629603122549">
+      <screen x="1366" y="0" width="1440" height="860" />
     </state>
+    <state x="1552" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629603122549" />
     <state x="176" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1629493033729" />
     <state x="1834" y="148" key="DetectedRootsChooserDialog" timestamp="1629599498487">
       <screen x="1366" y="0" width="1440" height="860" />
@@ -136,6 +178,22 @@
     </state>
     <state x="1854" y="139" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629599523911" />
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1629492253847" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1629654168198">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629654168198" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1629654168198">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629654168198" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1629654168198">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629654168198" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1629654168198">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629654168198" />
     <state x="1560" y="7" key="SettingsEditor" timestamp="1629601784589">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
@@ -153,5 +211,8 @@
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1468" y="41" key="new project wizard/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629600213871" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/co_com_choucair_certification_proyectobase$RunnerTags.ic" NAME="RunnerTags Coverage Results" MODIFIED="1629653872943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

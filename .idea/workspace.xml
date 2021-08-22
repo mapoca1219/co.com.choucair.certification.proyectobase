@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2579a24-e5f6-445a-89ca-298a2c8f659f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/prueba2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_cucumber_cucumber_java8_6_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_cucumber_cucumber_java_6_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/rennuers/RunnerTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Prueba.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prueba2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -18,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -32,9 +43,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Groovy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19425288" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.com.choucair.certification.proyectobase.rennuers" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -66,25 +91,67 @@
       <option name="project" value="LOCAL" />
       <updated>1629492365132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="inicio2">
+      <created>1629493034726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629493034726</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="inicio" />
+    <MESSAGE value="inicio2" />
+    <option name="LAST_COMMIT_MESSAGE" value="inicio2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1629492363982">
+    <state x="1540" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629601044561">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1540" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629601044561" />
+    <state x="1815" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1629601027043">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1815" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629601027043" />
+    <state x="1908" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1629596986701">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1908" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629596986701" />
+    <state x="1816" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1629599144222">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1816" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629599144222" />
+    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1629493033729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="176" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1629492363982" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1629492253847">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="176" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1629493033729" />
+    <state x="1834" y="148" key="DetectedRootsChooserDialog" timestamp="1629599498487">
+      <screen x="1366" y="0" width="1440" height="860" />
     </state>
+    <state x="1834" y="148" key="DetectedRootsChooserDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629599498487" />
+    <state x="1854" y="139" key="FileChooserDialogImpl" timestamp="1629599523911">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1854" y="139" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629599523911" />
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1629492253847" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1629491886094">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1560" y="7" key="SettingsEditor" timestamp="1629601784589">
+      <screen x="1366" y="0" width="1440" height="860" />
     </state>
+    <state x="1560" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629601784589" />
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1629491886094" />
+    <state x="1782" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1629601271888">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1782" y="253" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629601271888" />
+    <state x="1784" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1629601416301">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1784" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629601416301" />
+    <state x="1468" y="41" key="new project wizard" timestamp="1629600213871">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1468" y="41" key="new project wizard/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629600213871" />
   </component>
 </project>

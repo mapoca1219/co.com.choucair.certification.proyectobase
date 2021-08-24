@@ -1,4 +1,4 @@
-package co.com.choucair.certification.proyectobase.rennuers;
+package co.com.choucair.certification.academy.rennuers;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.SnippetType;
@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions (
         features = {"src/test/resources/features/academyChoucair.feature"},
         tags = "@stories",
-        glue = {"co.com.choucair.certificacion.proyectobase.stepdefinitions"},
+        glue = {"co.com.choucair.certificacion.academy.stepdefinitions"},
         snippets = SnippetType.CAMELCASE)
 public class RunnerTags{
 

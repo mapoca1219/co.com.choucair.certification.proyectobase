@@ -1,4 +1,4 @@
-package co.com.choucair.certification.proyectobase.molde;
+package co.com.choucair.certification.academy.molde;
 
 public class AcademyChoucaiData {
     private String strUser;

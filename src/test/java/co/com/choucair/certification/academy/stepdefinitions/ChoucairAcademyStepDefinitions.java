@@ -1,10 +1,10 @@
-package co.com.choucair.certification.proyectobase.stepdefinitions;
+package co.com.choucair.certification.academy.stepdefinitions;
 
-import co.com.choucair.certification.proyectobase.molde.AcademyChoucaiData;
-import co.com.choucair.certification.proyectobase.questions.Answer;
-import co.com.choucair.certification.proyectobase.tasks.Login;
-import co.com.choucair.certification.proyectobase.tasks.OpenUp;
-import co.com.choucair.certification.proyectobase.tasks.Search;
+import co.com.choucair.certification.academy.molde.AcademyChoucaiData;
+import co.com.choucair.certification.academy.questions.Answer;
+import co.com.choucair.certification.academy.tasks.Login;
+import co.com.choucair.certification.academy.tasks.OpenUp;
+import co.com.choucair.certification.academy.tasks.Search;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;

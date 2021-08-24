@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2579a24-e5f6-445a-89ca-298a2c8f659f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/rennuers/RunnerTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/rennuers/RunnerTags.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/questions/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/questions/Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/tasks/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/tasks/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/tasks/OpenUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/tasks/OpenUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/tasks/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/tasks/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/userinterface/ChoucairAcademyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/userinterface/ChoucairAcademyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/userinterface/ChoucairLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/userinterface/ChoucairLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/userinterface/SearchCoursePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy/userinterface/SearchCoursePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/molde/AcademyChoucaiData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/academy/molde/AcademyChoucaiData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/rennuers/RunnerTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/academy/rennuers/RunnerTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/stepdefinitions/ChoucairAcademyStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/academy/stepdefinitions/ChoucairAcademyStepDefinitions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-b3a2568d9ae4d15132bc74b621b5a53b321623fed09f326b8c6ea09bc9e25816.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-b3a2568d9ae4d15132bc74b621b5a53b321623fed09f326b8c6ea09bc9e25816.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/b3a2568d9ae4d15132bc74b621b5a53b321623fed09f326b8c6ea09bc9e25816.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b3a2568d9ae4d15132bc74b621b5a53b321623fed09f326b8c6ea09bc9e25816.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/b3a2568d9ae4d15132bc74b621b5a53b321623fed09f326b8c6ea09bc9e25816.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b3a2568d9ae4d15132bc74b621b5a53b321623fed09f326b8c6ea09bc9e25816.json" afterDir="false" />
@@ -161,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629665445041</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Complemento4">
+      <created>1629766115880</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629766115880</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,13 +186,18 @@
     <MESSAGE value="Complemento1" />
     <MESSAGE value="Complemento2" />
     <MESSAGE value="Complemento3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complemento3" />
+    <MESSAGE value="Complemento4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complemento4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1540" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629601044561">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1540" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629601044561" />
+    <state x="1864" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1629768055868">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1864" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629768055868" />
     <state x="1891" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1629664281079">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
@@ -198,15 +218,19 @@
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1816" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629599144222" />
-    <state x="1552" y="0" key="CommitChangelistDialog2" timestamp="1629665443246">
+    <state x="1552" y="0" key="CommitChangelistDialog2" timestamp="1629766113905">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state x="1552" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629665443246" />
+    <state x="1552" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629766113905" />
     <state x="176" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1629493033729" />
     <state x="1834" y="148" key="DetectedRootsChooserDialog" timestamp="1629599498487">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1834" y="148" key="DetectedRootsChooserDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629599498487" />
+    <state x="1458" y="92" width="1256" height="676" key="DiffContextDialog" timestamp="1629766894366">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1458" y="92" width="1256" height="676" key="DiffContextDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629766894366" />
     <state x="1854" y="139" key="FileChooserDialogImpl" timestamp="1629599523911">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
@@ -216,22 +240,22 @@
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1876" y="323" key="Github.ShareDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629669581172" />
-    <state width="1397" height="254" key="GridCell.Tab.0.bottom" timestamp="1629765284852">
+    <state width="1397" height="254" key="GridCell.Tab.0.bottom" timestamp="1629768106391">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="254" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629765284852" />
-    <state width="1397" height="254" key="GridCell.Tab.0.center" timestamp="1629765284852">
+    <state width="1397" height="254" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629768106391" />
+    <state width="1397" height="254" key="GridCell.Tab.0.center" timestamp="1629768106390">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="254" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629765284852" />
-    <state width="1397" height="254" key="GridCell.Tab.0.left" timestamp="1629765284852">
+    <state width="1397" height="254" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629768106390" />
+    <state width="1397" height="254" key="GridCell.Tab.0.left" timestamp="1629768106390">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="254" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629765284852" />
-    <state width="1397" height="254" key="GridCell.Tab.0.right" timestamp="1629765284852">
+    <state width="1397" height="254" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629768106390" />
+    <state width="1397" height="254" key="GridCell.Tab.0.right" timestamp="1629768106390">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="254" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629765284852" />
+    <state width="1397" height="254" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629768106390" />
     <state x="1560" y="7" key="SettingsEditor" timestamp="1629669322260">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
@@ -245,10 +269,14 @@
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1784" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629601416301" />
-    <state x="1468" y="41" key="new project wizard" timestamp="1629600213871">
+    <state x="1895" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629766283142">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state x="1468" y="41" key="new project wizard/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629600213871" />
+    <state x="1895" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629766283142" />
+    <state x="1468" y="41" key="new project wizard" timestamp="1629766157205">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1468" y="41" key="new project wizard/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1629766157205" />
     <state x="1749" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1629661877143">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>

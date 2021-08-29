@@ -8,6 +8,11 @@ import net.serenitybdd.screenplay.actions.Open;
 
 public class OpenUp implements Task {
     private ChoucairAcademyPage choucairAcademyPage;
+
+    public OpenUp(ChoucairAcademyPage choucairAcademyPage) {
+        this.choucairAcademyPage = choucairAcademyPage;
+    }
+
     public static OpenUp thePage() {
         return Tasks.instrumented(OpenUp.class);
     }

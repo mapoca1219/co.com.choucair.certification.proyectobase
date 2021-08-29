@@ -1,10 +1,9 @@
 package co.com.choucair.certification.academy.userinterface;
 
 import net.serenitybdd.core.annotations.findby.By;
-import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;
 
-public class SearchCoursePage extends PageObject {
+public class SearchCoursePage  {
     public static final Target BUTTON_UC = Target.the("selecciona la universidad choucair")
             .located(By.xpath("//div[@id='universidad']//strong"));
     public static final Target INPTU_COURSE = Target.the("selecciona la universidad choucair")

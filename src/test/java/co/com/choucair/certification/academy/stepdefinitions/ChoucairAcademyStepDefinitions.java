@@ -1,6 +1,6 @@
 package co.com.choucair.certification.academy.stepdefinitions;
 
-import co.com.choucair.certification.academy.molde.AcademyChoucaiData;
+import co.com.choucair.certification.academy.model.AcademyChoucaiData;
 import co.com.choucair.certification.academy.questions.Answer;
 import co.com.choucair.certification.academy.tasks.Login;
 import co.com.choucair.certification.academy.tasks.OpenUp;
